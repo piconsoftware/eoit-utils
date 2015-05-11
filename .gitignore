@@ -1,0 +1,11 @@
+# IntelliJ
+*.iml
+.idea
+
+# build files
+build
+bin
+gen
+
+# tests
+testCreate.sqlite
