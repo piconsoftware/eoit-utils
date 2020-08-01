@@ -3,9 +3,7 @@
 .idea
 
 # build files
-build
-bin
-gen
+target
 
 # tests
 testCreate.sqlite
